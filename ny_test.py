@@ -4,7 +4,8 @@ Spyder Editor
 
 This is a temporary script file.
 """
-print('Housni''s first love - Prasanthi')
+print('Housni''s love is Fi.')
+print('Nuzha''s love is Roshan.')
 x = [3.2,5]
 print(type(x))
 
