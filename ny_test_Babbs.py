@@ -6,6 +6,7 @@ This is a temporary script file.
 """
 print('Housni''s love is Fi.')
 print('Housni''s fart smells like Chickpeas and cabbage.')
+print('Third test from Housni on a file that Nuzha has already changed.')
 x = [3.2,5]
 print(type(x))
 
